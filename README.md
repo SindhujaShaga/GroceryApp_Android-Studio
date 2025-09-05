@@ -39,13 +39,13 @@ To get a copy of the project up and running on your local machine, follow these 
 
 2.  Open the project in Android Studio.
 
-3.  [cite_start]Use a **Pixel 7a Emulator with API 32** to run the application[cite: 22].
+3.  Use a **Pixel 7a Emulator with API 32** to run the application[cite: 22].
 
 ---
 
 ### 📈 Project Outcomes
 
-[cite_start]Through this project, I have learned how to develop an Android application from scratch[cite: 182]. [cite_start]I have also implemented a new scroll view in this application, which was both interesting and challenging[cite: 183].
+Through this project, I have learned how to develop an Android application from scratch.I have also implemented a new scroll view in this application, which was both interesting and challenging.
 
 ---
 
