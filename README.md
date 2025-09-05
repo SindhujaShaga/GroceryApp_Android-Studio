@@ -1,6 +1,5 @@
 # GroceryApp_Android-Studio
 
-# GroceryMart - Convenient Online Grocery Shopping Solution
 
 ---
 
