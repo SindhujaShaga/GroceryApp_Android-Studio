@@ -1,0 +1,7 @@
+#Wed Jul 31 00:35:46 EDT 2024
+base.0=/Users/sindhujashaga/Desktop/GroceryShopApp/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/sindhujashaga/Desktop/GroceryShopApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
