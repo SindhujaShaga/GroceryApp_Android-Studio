@@ -34,7 +34,7 @@ To get a copy of the project up and running on your local machine, follow these 
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-username]/[your-repo-name].git
+    git clone https://github.com/SindhujaShaga/GroceryApp_Android-Studio.git
     ```
 
 2.  Open the project in Android Studio.
