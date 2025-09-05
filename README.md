@@ -50,8 +50,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 ---
 
-### 📞 Contact
+## Author
+**Sindhuja Shaga** — *DevOps Engineer / CI/CD Enthusiast*  
+[LinkedIn](https://www.linkedin.com/in/sindhuja-shaga/) | [GitHub](https://github.com/SindhujaShaga?tab=repositories) 
 
-* [cite_start]**Sindhuja Shaga** - shagas2@udayton.edu [cite: 4]
-* **Project Link:** [https://github.com/[your-username]/[your-repo-name]](https://github.com/[your-username]/[your-repo-name])
-```eof
