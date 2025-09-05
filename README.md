@@ -3,17 +3,17 @@
 The GroceryMart App is a digital platform designed to streamline the grocery shopping experience directly from your mobile device. With a clean, intuitive, and visually appealing interface, it allows users to effortlessly browse, search, and purchase grocery items. The app aims to make shopping more efficient and convenient, from the initial splash screen to the final purchase.
 
 ✨ Key Features
-Splash Screen: A welcoming splash screen ensures a smooth and seamless launch experience.
+>Splash Screen: A welcoming splash screen ensures a smooth and seamless launch experience.
 
-Home Screen: The main interface displays a variety of grocery categories, promotional offers, and recently viewed products.
+>Home Screen: The main interface displays a variety of grocery categories, promotional offers, and recently viewed products.
 
-Product Details: Users can view comprehensive information about products, including high-quality images, descriptions, prices, and availability.
+>Product Details: Users can view comprehensive information about products, including high-quality images, descriptions, prices, and availability.
 
-Category Browsing: The app provides simple navigation, allowing users to browse items by category to quickly find what they need.
+>Category Browsing: The app provides simple navigation, allowing users to browse items by category to quickly find what they need.
 
-Search Functionality: A built-in search bar helps users quickly locate specific products.
+>Search Functionality: A built-in search bar helps users quickly locate specific products.
 
-Intuitive UI: The app is built with a clean and simple UI, ensuring a consistent and visually pleasing design with predefined fonts and styles.
+>Intuitive UI: The app is built with a clean and simple UI, ensuring a consistent and visually pleasing design with predefined fonts and styles.
 
 🚀 Getting Started
 To get a copy of the project up and running on your local machine, follow these simple steps.
